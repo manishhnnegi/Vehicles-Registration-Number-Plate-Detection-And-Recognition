@@ -1,6 +1,7 @@
+**Vehicles-Registration-Number-Plate-Detection-And-Recognition**
 Vehicles Registration number plate detection app using #flask #Tensorflow #opencv
 
-Objective:
+**Objective**:
 I have build the number plate detection model using Deep Learning with----
 1. Tensorflow 2.8 SSD Mobilenet V2 Object detection model using transefer leraning, 
 2. openCV for image processing 
